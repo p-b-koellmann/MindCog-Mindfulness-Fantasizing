@@ -1,2 +1,3 @@
 # MindCog-Mindfulness-Fantasizing
-ADD DESCRIPTION
+MindCog EEG Preprocessing and Analysis Pipeline
+This repository contains the preprocessing and analysis code supporting the findings reported in "Mindfulness and Positive Fantasizing Differentially Modulate Neural Markers of Attentional-emotional Engagement During Spontaneous Emotion Regulation". The pipeline processes raw EEG data from the MindCog study, a randomized crossover trial investigating the effects of mindfulness and positive fantasizing on neural markers of spontaneous emotion regulation in individuals with remitted Major Depressive Disorder (rMDD) and never-depressed (ND) controls. Raw participant-level data are not publicly shared at this stage.
